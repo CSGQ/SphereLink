@@ -1,0 +1,9 @@
+Building SphereChain
+
+See doc/readme-qt.rst for instructions on building SphereChain-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SphereChain.
+
+See doc/build-*.txt for instructions on building SphereChaind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SphereChain.
